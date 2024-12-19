@@ -16,7 +16,7 @@ git clone https://github.com/darksideyt762/ds_paktool.git
 # Navigate into the cloned repository folder
 cd ds_paktool
 
-# Set up the necessary folder structure
+# Create the folder structure in the Download folder
 mkdir -p ~/storage/emulated/0/Download/ds_paktool/PAKS
 mkdir -p ~/storage/emulated/0/Download/ds_paktool/UNPACK
 
